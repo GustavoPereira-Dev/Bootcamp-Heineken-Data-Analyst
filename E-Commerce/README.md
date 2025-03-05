@@ -24,6 +24,6 @@ Esse projeto consiste em desenvolver uma modelagem de um E-Commerce com as segui
   - Pagamento - Pode ter cadastrado mais de uma forma de pagamento
   - Entrega - Possui status e código de rastreio
 
-## Resultado da Modelagem: 
+## Resultado da Modelagem
 
 ![alt text](Ecommerce.jpg)
